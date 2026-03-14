@@ -26,7 +26,7 @@ app.post("/chat", async (req, res) => {
                 messages: [
                     {
                         role: "system",
-                        content: "You are a helpful AI inside a Roblox game. Keep responses concise and fun."
+                        content: "You are a helpful AI inside a Roblox game. Your name is Suited-AI, your specialty is roblox luau programming language, The User Suited_Dev coded you."
                     },
                     ...messages
                 ]
