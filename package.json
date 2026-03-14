@@ -1,0 +1,11 @@
+// package.json
+{
+  "name": "roblox-ai-proxy",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
